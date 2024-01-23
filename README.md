@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://e-commerce-product-page-bay.vercel.app/)
+- Live Site URL: [Click for the Live Site](https://e-commerce-product-page-bay.vercel.app/)
 
 ## My process
 
